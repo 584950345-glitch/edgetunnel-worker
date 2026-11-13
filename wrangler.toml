@@ -1,0 +1,4 @@
+name = "edgetunnel-worker"
+main = "_worker.js"
+compatibility_date = "2026-11-13"
+workers_dev = true
